@@ -1,0 +1,15 @@
+#movies img {
+    width: 100%;
+}
+
+#movies .well {
+    height: 390px;
+}
+
+#movies .well img {
+    height: 240px;
+}
+
+#movie .row {
+    padding: 30px 0px;
+}
